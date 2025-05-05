@@ -2,7 +2,9 @@
 
 📦 Overview
 This project demonstrates distributed data processing using Hadoop MapReduce and Apache Spark. The tasks span textual analysis, weather data parsing, crime analytics, and geospatial proximity filtering, culminating in a visual KML output.
-
+Implemented 8 Hadoop MapReduce jobs and 1 Spark pipeline to process over 1M+ records of crime logs
+• Computed proximity-based crime statistics, identifying 30+ assaults within 100 meters of a target location
+• Designed a Spark-based text analytics system to process and identify 4,500+ distinct words,
 📁 **Part 1: Hadoop MapReduce Jobs**
 ✅ Task 0 – Word Count
 File: WordCount.java
